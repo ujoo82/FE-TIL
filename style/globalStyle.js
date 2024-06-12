@@ -12,16 +12,16 @@ const posth4Style = `text-2xl font-bold mb-2 mt-4`;
 const posth5Style = `text-xl font-bold mb-2 mt-4`;
 const posth6Style = `text-lg font-bold mb-2 mt-4`;
 
-const postpStyle = `text-lg my-6 font-normal tracking-wide text-justify`;
+const postpStyle = `text-lg my-6 font-normal tracking-wide text-left`;
 const postimgStyle = `border-4 border-graylv1 rounded my-10 mx-auto block max-w-full h-auto align-middle`;
 const postaStyle = `text-lg text-primary underline hover:bg-activation transition duration-200`;
 
-const postulStyle = `list-disc list-inside text-lg font-normal tracking-wide text-justify`;
-const postolStyle = `list-decimal list-inside text-lg font-normal tracking-wide text-justify`;
-const postliStyle = `pl-4 mb-2 leading-relaxed tracking-wide text-justify`;
+const postulStyle = `list-disc list-inside text-lg font-normal tracking-wide text-left`;
+const postolStyle = `list-decimal list-inside text-lg font-normal tracking-wide text-left`;
+const postliStyle = `pl-6 mb-2 leading-relaxed tracking-wide text-left`;
 
 const postblockquoteStyle = `border-l-4 border-primary pl-4`;
-const postpreStyle = `relative bg-graylv1 p-4 rounded-[10px] mb-6 text-base font-medium overflow-auto whitespace-pre-wrap break-words text-justify max-w-full h-auto align-middle`;
+const postpreStyle = `relative bg-graylv1 p-4 rounded-[10px] mb-6 text-base font-medium overflow-auto whitespace-pre-wrap break-words text-left max-w-full h-auto align-middle`;
 const postcodeStyle = `font-mono text-base bg-transparent`;
 
 const posttableStyle = `table-auto w-auto border-collapse mb-6 h-auto align-middle border-graylv2 text-left`;
